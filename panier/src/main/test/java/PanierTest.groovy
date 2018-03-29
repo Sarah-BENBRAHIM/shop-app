@@ -26,11 +26,6 @@ class PanierTest extends GroovyTestCase {
         System.out.println("AfterClass");
     }*/
 
-    @Before
-    public static void setUp() {
-        P
-    }
-
 
 
     @Test
