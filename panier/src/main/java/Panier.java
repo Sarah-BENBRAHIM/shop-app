@@ -45,6 +45,8 @@ public class Panier {
         return somme;
     }
 
+
+
     public Article getArticle(int idArticle) {
         for(Article article : articles) {
             if (article.getId() == idArticle) {
